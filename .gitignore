@@ -1,0 +1,10 @@
+# Ignorar el entorno virtual (ejemploapienv)
+ejemploapienv/
+venv/
+
+# Ignorar archivos de caché y compilación
+__pycache__/
+*.pyc
+
+# Archivo de pyenv (versión de Python local)
+.python-version 
